@@ -12,19 +12,19 @@ Ans: 指以概率论和统计为基础建立的模型。
 
 3. Can you came up with some sceneraies at which we could use Probability Model?
 
-Ans: 股票价格预测、概率图模型、概率语言模型
+Ans: 股票价格预测、语音识别、拼写检查。
 
 4. Why do we use probability and what's the difficult points for programming based on parsing and pattern match?
 
-Ans:
+Ans: 因为基于规则的模型可能给出不符实际的句子。难点在于使句子没有歧义。
 
 5. What's the Language Model;
 
-Ans:
+Ans: 基于计算字符串概率的模型称为概率语言模型。
 
 6. Can you came up with some sceneraies at which we could use Language Model?
 
-Ans:
+Ans: 语音识别、拼写检查、光学字符识别
 
 7. What's the 1-gram language model;
 

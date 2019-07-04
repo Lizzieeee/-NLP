@@ -28,12 +28,12 @@ Ans: 语音识别、拼写检查、光学字符识别
 
 7. What's the 1-gram language model;
 
-Ans:
+Ans: 假设字符串的出现相互独立的概率语言模型 。
 
 8. What's the disadvantages and advantages of 1-gram language model;
 
-Ans:
+Ans: 不利：没有考虑到字符间的关联规律，容易产生有歧义的句子。有利：字符的概率容易计算。
 
 9. What't the 2-gram models;¶ 
 
-Ans:
+Ans: 1阶马尔可夫模型，某字符的状态仅与上一个字符的状态有关。
